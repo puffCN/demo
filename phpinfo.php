@@ -1,2 +1,2 @@
 <?php
-echo(phpinfi());
+echo(phpinfo());
