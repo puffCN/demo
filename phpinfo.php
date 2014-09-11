@@ -1,4 +1,4 @@
 <?php
 echo(phpinfo());
 
-$i = 1;
+$i = 3;
